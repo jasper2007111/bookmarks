@@ -7,7 +7,8 @@
 [亚马逊](http://www.amazon.cn)  
 [凤凰网](http://www.ifeng.com)  
 [豆瓣](http://www.douban.com)  
-[开源中国](http://www.oschina.net)
+[开源中国](http://www.oschina.net)  
+[Google](https://www.google.com)
 
 ## 工具
 [IT-Books](http://www.it-ebooks.info)  
@@ -16,7 +17,8 @@
 ## 博客
 [Meet @fannheyward](http://fann.im)  
 [王敏君的技术博客](http://kingstal.github.io)  
-高质量iOS博客[iBireme](http://blog.ibireme.com/)
+高质量iOS博客[iBireme](http://blog.ibireme.com/)  
+[暴走技术博客](http://dev.baozou.com)
 
 ## 书籍
 [ios核心动画高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)  
