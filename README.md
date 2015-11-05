@@ -12,13 +12,26 @@
 
 ## 工具
 [IT-Books](http://www.it-ebooks.info)  
-[陕西省图书馆](http://www.sxlib.org.cn)
+[陕西省图书馆](http://www.sxlib.org.cn)  
+[Teahour](http://teahour.fm)
+
+## iOS优质网站
+[NSHipster](http://nshipster.com)->[中文站点](http://nshipster.cn/)  
+[Appcoda](http://www.appcoda.com)  
+[Objc.io](https://www.objc.io)->[中文站点](http://www.objcio.cn/)  
+历届WWDC[Asciiwwdc](http://asciiwwdc.com/)  
+[Raywenderlich](http://www.raywenderlich.com)
+
+## 框架
+[Flask](http://flask.pocoo.org)
 
 ## 博客
 [Meet @fannheyward](http://fann.im)  
 [王敏君的技术博客](http://kingstal.github.io)  
-高质量iOS博客[iBireme](http://blog.ibireme.com/)  
-[暴走技术博客](http://dev.baozou.com)
+高质量iOS博客[iBireme](http://blog.ibireme.com)  
+[暴走技术博客](http://dev.baozou.com)  
+Python以及Django[易先生的世界](http://yijingping.github.io)  
+[Haojianzong](http://www.haojianzong.com/)
 
 ## 书籍
 [ios核心动画高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)  
