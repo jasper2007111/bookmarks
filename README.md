@@ -31,7 +31,8 @@
 高质量iOS博客[iBireme](http://blog.ibireme.com)  
 [暴走技术博客](http://dev.baozou.com)  
 Python以及Django[易先生的世界](http://yijingping.github.io)  
-[Haojianzong](http://www.haojianzong.com/)
+[Haojianzong](http://www.haojianzong.com/)  
+[柳志超](http://liuzhichao.com/)
 
 ## 书籍
 [ios核心动画高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)  
