@@ -20,7 +20,8 @@
 [Appcoda](http://www.appcoda.com)  
 [Objc.io](https://www.objc.io)->[中文站点](http://www.objcio.cn/)  
 历届WWDC[Asciiwwdc](http://asciiwwdc.com/)  
-[Raywenderlich](http://www.raywenderlich.com)
+[Raywenderlich](http://www.raywenderlich.com)  
+[极客学院](http://wiki.jikexueyuan.com/)
 
 ## 框架
 [Flask](http://flask.pocoo.org)
