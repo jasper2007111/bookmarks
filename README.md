@@ -12,6 +12,7 @@
 
 ## 工具
 [IT-Books](http://www.it-ebooks.info)  
+[Allitebooks](http://www.allitebooks.com/)  
 [陕西省图书馆](http://www.sxlib.org.cn)  
 [Teahour](http://teahour.fm)
 
@@ -21,7 +22,9 @@
 [Objc.io](https://www.objc.io)->[中文站点](http://www.objcio.cn/)  
 历届WWDC[Asciiwwdc](http://asciiwwdc.com/)  
 [Raywenderlich](http://www.raywenderlich.com)  
-[极客学院](http://wiki.jikexueyuan.com/)
+[极客学院](http://wiki.jikexueyuan.com/)  
+[Swift cafe](http://swiftcafe.io/)  
+[SwiftGG](http://swift.gg/)
 
 ## 框架
 [Flask](http://flask.pocoo.org)
@@ -33,7 +36,11 @@
 [暴走技术博客](http://dev.baozou.com)  
 Python以及Django[易先生的世界](http://yijingping.github.io)  
 [Haojianzong](http://www.haojianzong.com/)  
-[柳志超](http://liuzhichao.com/)
+[柳志超](http://liuzhichao.com/)  
+[Kitten's 时间胶囊](http://kittenyang.com/)  
+[Sunnyyoung's](http://sunnyyoung.net/)  
+[第七章](http://www.zoomfeng.com/)  
+[Luke's](http://geeklu.com/)
 
 ## 书籍
 [ios核心动画高级技巧](https://www.gitbook.com/book/zsisme/ios-/details)  
